@@ -4,7 +4,6 @@
 def display_board
   row1 = "   |   |   "
   row2 = "-----------"
-  puts "A Tic Tac Toe Board"
   puts row1
   puts row2
   puts row1
