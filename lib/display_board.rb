@@ -2,8 +2,8 @@
 empty = "   "
 pipe = "|"
 dashes ="-----------"
-row1 = print empty, pipe, empty, pipe, empty
-row2 = print dashes
+row1 = empty, pipe, empty, pipe, empty
+row2 = dashes
 
 def display_board
   puts "A Tic Tac Toe Board"
